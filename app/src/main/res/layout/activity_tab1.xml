@@ -2,6 +2,7 @@
 <LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_height="match_parent"
+    android:background="@drawable/pantai"
 
     android:layout_width="match_parent"
 
@@ -16,6 +17,7 @@
         android:layout_width="fill_parent"
 
         android:padding="15dip"
+        android:textColorHint="@color/white"
 
         android:text="Sejarah
 Universitas Kuningan (UNIKU) didirikan sebagai perwujudan dari idealisme dan komitmen Yayasan Pendidikan Sang Adipati Kuningan untuk terus menerus berkarya khususnya dalam bidang peningkatan sumber daya manusia menuju peningkatan mutu kehidupan masyarakat pada umumnya"

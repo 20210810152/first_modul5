@@ -2,25 +2,25 @@
 <LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_height="match_parent"
-
+    android:background="@drawable/pantaii"
     android:layout_width="match_parent"
 
     android:orientation="vertical">
 
     <TextView
 
-        android:gravity="center"
+        android:layout_width="fill_parent"
 
         android:layout_height="wrap_content"
 
-        android:layout_width="fill_parent"
+        android:gravity="center"
 
         android:padding="15dip"
 
         android:text="Fakultas Ilmu Komputer bertujuan untuk menciptakan lingkungan belajar yang memacu kemajuan, kreativitas, dan keunggulan dalam bidang ilmu komputer."
-        android:textStyle="italic"
+        android:textSize="18dip"
 
-        android:textSize="18dip" />
+        android:textStyle="italic" />
 
     <ImageView
         android:id="@+id/imageView3"
